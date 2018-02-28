@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/cazenov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.chrisladika.com
+  * I am cazenov (https://keybase.io/cazenov) on keybase.
+  * I have a public key with fingerprint 394F D00D 0740 5A88 E4EC  BD23 6916 44B7 B20E 251F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120009c4cda4890a875b6ba0765fb56272124ee772b73da17c76dad6f3ecafdbe830a",
+      "fingerprint": "394fd00d07405a88e4ecbd23691644b7b20e251f",
+      "host": "keybase.io",
+      "key_id": "691644b7b20e251f",
+      "kid": "01013df0d035c44c00ab4ad43e51faa3293e9cca35f1be5d7a302467a664c5516a9e0a",
+      "uid": "b407551d50b8f88f676867d57fd41819",
+      "username": "cazenov"
+    },
+    "service": {
+      "hostname": "www.chrisladika.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519831387,
+  "expire_in": 157680000,
+  "prev": "a347f35cb424c83dcf135eaa7f82dc809aed6451bd0ef53e188efce26c94682d",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMN0AnicbZJrUFVVGIYPNwVGuQdEarIjmEY67MvalwOWUZGj4BBTJBrMce211oYd
+sM/hnMM98Adoo5YlBooBP4CRpmhAHFIZRiTJANNgwMQxUoa7ToOTDimmtA+j//q1
+Zn3zvs/3rm99fWvdDN4uavC7Zzp8Xn3Z5XJvfb5hd83Ax6WUbMHFVGwplU1WDpKD
+id1hzlYxFUvRDEvTtAkBhCGQTDSURF4WZEiLAq/IvMCKLMMCQkSRlUUOQ0ZEooAh
+FhSOIKhgmUgcDaloSlG1TGKz2lTNoWM5E1AwTWNaBDQPJYkAgmTMcoKJEQCQRZml
+Ccszim7MstidDj2cDO3EqFr0mn4xr8T7H/3z3DTDYUXvwPEIAETTUAYQA47oKgg5
+1sQRE0KQ4xVGJjwWIUezQBChIADE84wATWQld/4KTga0qFcxT8uSIkmKIAqSIGJe
+VDBgJMbkFNqJTYO5RFcjWEI0SwFVFk3pxQIVEedcnQ95JigsLDSiLJtqz4FYzYZG
+ZMnVCVabxWFBlhxdkOVwWGOdfkexdcVAZPMzlFlWNawPUzcUEJtdtWhULKMrkUN1
+shmeMUkcw0liNEWKrKqNmFWngtcT6z9JO9uQAh0JOSAq+nBkwAIkcRgpDMcTCEVF
+YjGSaBMkWAA8I2OaKDxHGP2XFERYAZmAoEso5+PyNIvO1qEOmKkz7WqmBh35NkKV
+/dSb7m5w8Tas8nB1bpnB28vv+e5FBfk+pUly4vgOz5auppLzcxmuXnMfBBwcfOV6
+85ako8ZorXtxUtn7+NfK8MWMuw0vBh1a/+nZD7/tWfdJ662hlm3vjR7fX1vaNDbC
+Tv1RblB+Pti4ydC0e9QVXPIKTMgeSV9YbtK6x0YjfGuQARxfx3ZtO2b0PvC07rur
+xWEvOO7Wn+777Yhf/4mLRjb3QP391+JSdm5yC9sgbD56b859/zdnJ4K3j0S9E3I4
+wJTOoI49ZdEJe9Otv2jN2uFWyb6x91rEZTqnYdWFrval5Fqf4AttZR2g51STZWJN
+95vKjY+K/86KPnnOvNwxk7PjSmZQc5x1nJini6bxnVnPH9e39tSF3h4uKju3a3Wo
+C+L/bOCW+LbPXa6PNta6165uTJt42BKQWB2U+NWp/vnIG2FLe5Ljb94KvOf/Q93F
+QY/Gm47XhyaH2ar2wM7tqtZt87qy8HAiqj+uZLjys2rb/PtSRRs/fzVlSIS+m0NK
+avy2bniSfr9qqBVE8qcjywfL3k5SawrUXNfxvse97smLl76eWfI+Ej7pltrM5vqe
+f3InPM1eue/R7EBsz/KxqX27pgceTe2Mj1lIfaNiS0V6WtJCUkrBxsIYj/iTf+XM
++OeFtnp0vtVW/uW130sy/hm1Fc9O3/ZvH39Q2PZF6ku9eXER4am4yvNMiodhKz4R
+8n0MY0T/+lSPdS6twQ/WJjT+Bz7+v3g=
+=L1iI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cazenov
+
+==================================================================
